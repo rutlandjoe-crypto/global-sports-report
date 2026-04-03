@@ -3,7 +3,7 @@
 # Global Sports Report
 
 <p align="center">
-  <img src="./logo.png/png" width="160"/>
+  <img src="./logo.png.png" width="160"/>
 </p>
 
 Built by a journalist, designed as a real-time newsroom assistant for sports writers, broadcasters, and analysts.
