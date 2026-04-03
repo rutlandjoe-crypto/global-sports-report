@@ -1,9 +1,9 @@
-![Global Sports Report Banner](banner.png)
+![Global Sports Report Banner](./banner.png)
 
 # Global Sports Report
 
 <p align="center">
-  <img src="logo.png" width="160"/>
+  <img src="./logo.png" width="160"/>
 </p>
 
 A real-time, automated multi-sport reporting system delivering live updates across MLB, NBA, NHL, soccer, fantasy, betting, and global sports coverage.
