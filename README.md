@@ -6,7 +6,7 @@
   <img src="./logo.png/png" width="160"/>
 </p>
 
-A real-time, automated multi-sport reporting system delivering live updates across MLB, NBA, NHL, soccer, fantasy, betting, and global sports coverage.
+Built by a journalist, designed as a real-time newsroom assistant for sports writers, broadcasters, and analysts.
 
 ---
 
